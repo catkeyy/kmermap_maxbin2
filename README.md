@@ -1,6 +1,6 @@
 # kmermap_maxbin2
 
-Cálculo de Perfiles Descriptores de K-mers en Reads/Contigs (extraído de MaxBin2)
+Cálculo de Perfiles Descriptores de K-mers en Reads/Contigs (extraído de MaxBin2) https://sourceforge.net/projects/maxbin2/
 
 ---
 
