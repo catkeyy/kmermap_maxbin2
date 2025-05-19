@@ -28,3 +28,4 @@ frecuencia[i] = (número de veces que aparece el k-mer i en la secuencia) / (tot
 # kmermap_maxbin2
 # kmermap_maxbin2
 # kmermap_maxbin2
+# kmermap_maxbin2
